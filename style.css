@@ -1,0 +1,19 @@
+.measure{
+	text-decoration: underline;
+
+}
+
+#AOTSection{
+	border-style: solid;
+	border-radius: 5px;
+	display: inline-block;
+	padding: 50px;
+	background-color: ivory;
+	justify-content: left;
+	
+	
+}
+
+body{
+	background-color: goldenrod;
+}
